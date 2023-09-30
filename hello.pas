@@ -1,3 +1,3 @@
 ﻿begin
-  var n:=readint('Какой сейчас час ?');
+  var n:=readinteger('Какой сейчас час ?');
 end.
