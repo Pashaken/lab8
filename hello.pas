@@ -1,3 +1,3 @@
 ﻿begin
-  println('Hello World');
+  var n:=readint('Какой сейчас час ?');
 end.
